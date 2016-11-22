@@ -17,11 +17,27 @@ font-family: sans-serif;
 flex-direction: column; 
 justify-content: center; 
 overflow: hidden; 
-
+color: blue; 
 }
 
 div.container{ 
 align-items: center; 
 align-self: center;
+padding: 3px;
+margin-bottom: 3px;  
+}
+
+div.list{
+padding: 3px; 
+
+}
+
+li {
+padding: 3px; 
+color: red; 
+}
+
+ul {
+padding: 3px; 
 
 }
